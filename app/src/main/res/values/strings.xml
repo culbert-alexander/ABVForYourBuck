@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ABV For Your Buck</string>
+    <string name="ht">Harris Teeter</string>
+    <string name="wm">Walmart</string>
+    <string name="tg">Target</string>
+    <string name="cc">Costco</string>
+    <string name="sz">Sheetz</string>
+    <string name="title">Choose your store</string>
 </resources>
